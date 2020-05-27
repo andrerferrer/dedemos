@@ -21,4 +21,4 @@ This is a repository with my demos to showcase how to implement several features
 
 ### Others
 1. [Create a Chat](https://github.com/andrerferrer/chat-demo) - How to create a chat in Rails.
-2. [Attach PDF](https://github.com/andrerferrer/attach-pdf-demo) - How to implement some PDF attaching to you Rails app.
+2. [Attach PDF](https://github.com/andrerferrer/attach-pdf-demo) - How to implement some PDF attaching to your Rails app.
