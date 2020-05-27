@@ -11,6 +11,7 @@ This is a repository with my demos to showcase how to implement several features
 
 ### Simple Form For
 1. [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated models.
+2. [Implement a search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar
 
 ### Devise
 1. [Login with nickname instead of email](https://github.com/andrerferrer/username-not-email-devise-demo) - Self-explanatory.
