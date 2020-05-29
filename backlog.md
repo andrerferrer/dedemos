@@ -8,7 +8,8 @@ Rails ajax
   Rails.ajax
 
 Search
-  Restaurant with many
+  Search Restaurant by active?, categories, price and distance
+  Do the above with pg search
 
 
 ```
