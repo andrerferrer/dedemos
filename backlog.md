@@ -2,7 +2,8 @@
 Backlog
 
 Rails ajax
-  no remote true (turbolinks)
+  no remote true
+  remote true (turbolinks)
   remote true (the old way)
   stimulus js
   Rails.ajax
