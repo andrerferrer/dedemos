@@ -11,13 +11,16 @@ This is a repository with my demos to showcase how to implement several features
 
 ### Simple Form For
 1. [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated models.
-2. [Implement a search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar
+2. [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar
 
 ### Devise
 1. [Login with nickname instead of email](https://github.com/andrerferrer/username-not-email-devise-demo) - Self-explanatory.
 
 ### ActiveRecord
 1. [Rename References](https://github.com/andrerferrer/rename-references-demo) - How to link my DB with more semantic namings.
+
+### AJAX in Rails
+1. [Simple Ajax](https://github.com/andrerferrer/ajax-rails-6-demo) - How to implement Ajax for creating and deleting
 
 ### Others
 1. [Create a Chat](https://github.com/andrerferrer/chat-demo) - How to create a chat in Rails.
