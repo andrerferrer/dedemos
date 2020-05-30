@@ -14,7 +14,10 @@ This is a repository with my demos to showcase how to implement several features
 2. [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar
 
 ### Devise
-1. [Login with nickname instead of email](https://github.com/andrerferrer/username-not-email-devise-demo) - Self-explanatory.
+1. [Nickname instead of email](https://github.com/andrerferrer/username-not-email-devise-demo) - How to implement Devise in a Rails app.
+
+### Pundit
+1. [Pundit with Devise](https://github.com/andrerferrer/pundit-demo) - How to implement Pundit.
 
 ### ActiveRecord
 1. [Rename References](https://github.com/andrerferrer/rename-references-demo) - How to link my DB with more semantic namings.
