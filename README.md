@@ -14,7 +14,8 @@ This is a repository with my demos to showcase how to implement several features
 2. [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar
 
 ### Devise
-1. [Nickname instead of email](https://github.com/andrerferrer/username-not-email-devise-demo) - How to implement Devise in a Rails app.
+1. [Devise basics](https://github.com/andrerferrer/devise-demo) - How to implement the basics of Devise in a Rails app.
+2. [Nickname instead of email](https://github.com/andrerferrer/username-not-email-devise-demo) - How to implement Devise in a Rails app.
 
 ### Pundit
 1. [Pundit with Devise](https://github.com/andrerferrer/pundit-demo) - How to implement Pundit.
