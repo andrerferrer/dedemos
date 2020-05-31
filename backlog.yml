@@ -1,0 +1,20 @@
+---
+Rails ajax:
+  - no remote true
+  - remote true (turbolinks)
+  - remote true (the old way)
+  - stimulus js
+  - Rails.ajax
+
+Search:
+  - Search Restaurant by active?, categories, price and distance
+  - Do the above with pg search
+
+Testing:
+  Rspec: Basic unitary testing
+  Capybara: Integration testing
+
+Advanced:
+  Interactors: Implement the interactor gem
+
+Templates: Create rails [templates](https://guides.rubyonrails.org/rails_application_templates.html)
