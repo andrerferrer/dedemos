@@ -20,6 +20,7 @@ This is a repository with my demos to showcase how to implement several features
 
 ### Pundit
 1. [Pundit with Devise](https://github.com/andrerferrer/pundit-demo) - How to implement Authorization with Pundit.
+2. [Policy on another model etc](https://github.com/andrerferrer/pundit-outsourcing-demo) - How to implement Pundit using another model as the parameter to check the Policy.
 
 ### ActiveRecord
 1. [Rename References](https://github.com/andrerferrer/rename-references-demo) - How to link a DB with more semantic namings.
