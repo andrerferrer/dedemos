@@ -28,6 +28,9 @@ This is a repository with my demos to showcase how to implement several features
 ### AJAX in Rails
 1. [Simple Ajax](https://github.com/andrerferrer/ajax-rails-6-demo) - How to implement Ajax for creating and deleting using Rails 6.
 
+### Testing
+1. [Simple Testing](https://github.com/andrerferrer/basic-testing-demo/#demo) - How to implement basic testing for features and models.
+
 ### Others
 1. [Create a Chat](https://github.com/andrerferrer/chat-demo) - How to create a chat in Rails 6.
 2. [Attach PDF](https://github.com/andrerferrer/attach-pdf-demo) - How to implement some PDF attaching to your Rails app.
