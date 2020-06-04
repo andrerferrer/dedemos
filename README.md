@@ -12,7 +12,7 @@ This is a repository with my demos to showcase how to implement several features
 ### Simple Form For
 1. [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated models.
 2. [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar
-3. [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo/blob/master/README.md) - How to create a simple filter mechanism
+3. [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo#goal) - How to create a simple filter mechanism
 
 ### Devise
 1. [Devise basics](https://github.com/andrerferrer/devise-demo) - How to implement the basics of Devise in a Rails app.
