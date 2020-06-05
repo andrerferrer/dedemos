@@ -33,8 +33,8 @@ This is a repository with my demos to showcase how to implement several features
 
 ### ActiveStorage
 1. [Attach a photo](https://github.com/andrerferrer/basic-photo-demo) - How to attach a file to a model in Rails.
+2. [Attach PDF](https://github.com/andrerferrer/attach-pdf-demo) - How to implement some PDF attaching to your Rails app.
 
 ### Others
 1. [Create a Chat](https://github.com/andrerferrer/chat-demo) - How to create a chat in Rails 6.
-2. [Attach PDF](https://github.com/andrerferrer/attach-pdf-demo) - How to implement some PDF attaching to your Rails app.
-3. [Rails Helper](https://github.com/andrerferrer/rails-helper-demo) - How to implement a simple Rails helper.
+2. [Rails Helper](https://github.com/andrerferrer/rails-helper-demo) - How to implement a simple Rails helper.
