@@ -39,5 +39,4 @@ This is a repository with my demos to showcase how to implement several features
 1. [Create a Chat](https://github.com/andrerferrer/chat-demo) - How to create a chat in Rails 6.
 2. [Rails Helper](https://github.com/andrerferrer/rails-helper-demo) - How to implement a simple Rails helper.
 
-### Small tips
-Tdb
+### [Small tips](https://github.com/andrerferrer/quickTips)
