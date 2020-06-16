@@ -3,7 +3,7 @@
 ## What is this?
 This is a repository with my demos to showcase how to implement several features, mostly using Ruby on Rails.
 
-[Check also my quick tips.](https://github.com/andrerferrer/quickTips).
+[Check also my quick tips](https://github.com/andrerferrer/quickTips).
 
 
 ## The Repositories
