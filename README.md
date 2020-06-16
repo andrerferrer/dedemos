@@ -3,7 +3,7 @@
 ## What is this?
 This is a repository with my demos to showcase how to implement several features, mostly using Ruby on Rails.
 
-[Check also my quick tips.](https://github.com/andrerferrer/quickTips)
+[Check also my quick tips.](https://github.com/andrerferrer/quickTips).
 
 
 ## The Repositories
@@ -16,10 +16,10 @@ This is a repository with my demos to showcase how to implement several features
 - [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated models.
 
 ### Searching
-- [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar
-- [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo#goal) - How to create a simple filter mechanism
-- [PG Search](https://github.com/andrerferrer/pg-search-demo#goal) - How to do not so simple searching
-- [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags
+- [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar.
+- [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo#goal) - How to create a simple filter mechanism.
+- [PG Search](https://github.com/andrerferrer/pg-search-demo#goal) - How to do not so simple searching.
+- [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
 
 ### Devise
 - [Devise basics](https://github.com/andrerferrer/devise-demo) - How to implement the basics of Devise in a Rails app.
