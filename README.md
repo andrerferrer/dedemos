@@ -18,6 +18,7 @@ This is a repository with my demos to showcase how to implement several features
 ### Searching
 - [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar
 - [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo#goal) - How to create a simple filter mechanism
+- [PG Search](https://github.com/andrerferrer/pg-search-demo#goal) - How to do not so simple searching
 
 ### Devise
 - [Devise basics](https://github.com/andrerferrer/devise-demo) - How to implement the basics of Devise in a Rails app.
