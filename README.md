@@ -15,7 +15,7 @@ This is a repository with my demos to showcase how to implement several features
 ### Simple Form For
 - [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated models.
 
-### Searching
+### Searching and Filtering
 - [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar.
 - [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo#goal) - How to create a simple filter mechanism.
 - [PG Search](https://github.com/andrerferrer/pg-search-demo#goal) - How to do not so simple searching.
