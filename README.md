@@ -20,7 +20,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo#goal) - How to create a simple filter mechanism.
 - [PG Search](https://github.com/andrerferrer/pg-search-demo#goal) - How to do not so simple searching.
 - [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
-- [Create a model with tags](https://github.com/andrerferrer/create-multiple-tags#goal) - How to create a model with tags
+- [Create a model with tags](https://github.com/andrerferrer/model-with-tags-demo#goal) - How to create a model with tags
 
 ### Devise
 - [Devise basics](https://github.com/andrerferrer/devise-demo) - How to implement the basics of Devise in a Rails app.
