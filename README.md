@@ -15,7 +15,8 @@ This is a repository with my demos to showcase how to implement several features
 - [Attach PDF](https://github.com/andrerferrer/attach-pdf-demo) - How to implement some PDF attaching to your Rails app.
 
 ### AJAX in Rails
-- [Simple Ajax](https://github.com/andrerferrer/ajax-rails-6-demo) - How to implement Ajax for creating and deleting using Rails 6.
+- [Simple Ajax](https://github.com/andrerferrer/ajax-rails-6-demo) - How to implement Ajax for creating and deleting using Rails 6 with turbolinks.
+- [AJAX with Turbolinks](https://github.com/andrerferrer/turbolinks-ajax-demo#goal) - How to add the turbolinks gem to implement AJAX in Rails.
 
 ### Background Jobs
 - [Basics](https://github.com/andrerferrer/background-jobs-demo) - How to implement background jobs in the Model.
