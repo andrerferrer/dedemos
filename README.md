@@ -18,6 +18,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Simple Ajax](https://github.com/andrerferrer/ajax-rails-6-demo) - How to implement Ajax for creating and deleting using Rails 6 with turbolinks.
 - [AJAX with Turbolinks](https://github.com/andrerferrer/turbolinks-ajax-demo#goal) - How to add the turbolinks gem to implement AJAX in Rails.
 - [AJAX without Turbolinks](https://github.com/andrerferrer/respond-to-ajax-demo/blob/master/README.md#goal) - How to implement AJAX in Rails without Turbolinks.
+- [AJAX with Rails.ajax](https://github.com/andrerferrer/rails-ajax-demo/blob/master/README.md#goal) - How to implement AJAX in Rails with a Javascript `fetch` using `Rails.ajax`.
 
 ### Background Jobs
 - [Basics](https://github.com/andrerferrer/background-jobs-demo) - How to implement background jobs in the Model.
