@@ -43,8 +43,8 @@ This is a repository with my demos to showcase how to implement several features
 
 ### Tags
 - [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
-- [Create a model with tags](https://github.com/andrerferrer/model-with-tags-demo#goal) - How to create a model with tags
-- [Create several tags at once](https://github.com/andrerferrer/create-multiple-tags-demo#goal) - How to create several tags at once
+- [Create a model with tags](https://github.com/andrerferrer/model-with-tags-demo#goal) - How to create a model with tags.
+- [Create several tags at once](https://github.com/andrerferrer/create-multiple-tags-demo#goal) - How to create several tags at once.
 
 ### Testing
 - [Simple Testing](https://github.com/andrerferrer/basic-testing-demo/#demo) - How to implement basic testing for features and models.
