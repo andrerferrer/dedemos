@@ -1,4 +1,4 @@
-# DeDémos
+# DeDémos Rails
 
 ## What is this?
 This is a repository with my demos to showcase how to implement several features, mostly using Ruby on Rails.
