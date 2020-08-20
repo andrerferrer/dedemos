@@ -32,9 +32,9 @@ This is a repository with my demos to showcase how to implement several features
 - [Login with Nickname](https://github.com/andrerferrer/username-not-email-devise-demo) - How to implement Devise in a Rails app to log in with something but the email.
 
 ### Geocoder gem
-- [Geocoder basics](https://github.com/andrerferrer/geocoder-gem) - How to implement the `geocoder` gem in a model, adding the coordinates according to the address.
-- [Geocoder without address no create](https://github.com/andrerferrer/geocoder-without-address-no-create) - How to geocode but with street, city and country as individual columns.
-
+- [Geocoder basics](https://github.com/andrerferrer/geocoder-gem#goal) - How to implement the `geocoder` gem in a model, adding the coordinates according to the address.
+- [Geocoder without address no create](https://github.com/andrerferrer/geocoder-without-address-no-create#goal) - How to geocode but with street, city and country as individual columns.
+- [Geocoder without address create](https://github.com/andrerferrer/geocoder-without-address-create#goal) - How to geocode but with street, city and country as individual columns. This time, we will make the address be saved in the record after geocoding.
 
 ### Pundit
 - [Pundit with Devise](https://github.com/andrerferrer/pundit-demo) - How to implement Authorization with Pundit.
