@@ -28,7 +28,7 @@ This is a repository with my demos to showcase how to implement several features
 - [In the controller with Devise](https://github.com/andrerferrer/background-jobs-devise-demo) - How to implement background jobs in the Controller.
 
 ### Dates (working with dates in general)
-- [Nice date](#)
+- [Nice date](https://github.com/andrerferrer/nice-date-demo#goal)
 
 ### Devise
 - [Devise basics](https://github.com/andrerferrer/devise-demo) - How to implement the basics of Devise in a Rails app.
