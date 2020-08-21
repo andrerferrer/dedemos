@@ -27,6 +27,9 @@ This is a repository with my demos to showcase how to implement several features
 - [Basics](https://github.com/andrerferrer/background-jobs-demo) - How to implement background jobs in the Model.
 - [In the controller with Devise](https://github.com/andrerferrer/background-jobs-devise-demo) - How to implement background jobs in the Controller.
 
+### Dates (working with dates in general)
+- [Nice date](#)
+
 ### Devise
 - [Devise basics](https://github.com/andrerferrer/devise-demo) - How to implement the basics of Devise in a Rails app.
 - [Login with Nickname](https://github.com/andrerferrer/username-not-email-devise-demo) - How to implement Devise in a Rails app to log in with something but the email.
