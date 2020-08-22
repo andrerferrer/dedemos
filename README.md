@@ -28,6 +28,7 @@ This is a repository with my demos to showcase how to implement several features
 - [In the controller with Devise](https://github.com/andrerferrer/background-jobs-devise-demo) - How to implement background jobs in the Controller.
 
 ### Dates (working with dates in general)
+- [Time in Rails](https://github.com/andrerferrer/time-in-rails) - How to work with time (_latu sensu_) in `Rails`.
 - [Nice date](https://github.com/andrerferrer/nice-date-demo#goal) - How to implement an easy date picker in rails using the simple form gem.
 
 ### Devise
