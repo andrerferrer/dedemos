@@ -63,3 +63,4 @@ This is a repository with my demos to showcase how to implement several features
 ### *Others
 - [Create a Chat](https://github.com/andrerferrer/chat-demo) - How to create a chat in Rails 6.
 - [Rails Helper](https://github.com/andrerferrer/rails-helper-demo) - How to implement a simple Rails helper.
+- [Keep Context Form](https://github.com/andrerferrer/keep-context-form-demo#goal) - How to make the form retain the context and take you back to your form without scrolling after submit.
