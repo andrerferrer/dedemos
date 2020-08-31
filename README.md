@@ -8,7 +8,7 @@ This is a repository with my demos to showcase how to implement several features
 ## The Repositories
 
 ### ActiveRecord
-- [Rename References](https://github.com/andrerferrer/rename-references-demo) - How to link a DB with more semantic namings.
+- [Rename References](https://github.com/andrerferrer/rename-references-demo#demo) - How to link a DB with more semantic namings.
 
 ### ActiveStorage
 - [Attach a photo](https://github.com/andrerferrer/basic-photo-demo) - How to attach a file to a model in Rails.
