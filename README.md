@@ -64,3 +64,4 @@ This is a repository with my demos to showcase how to implement several features
 - [Create a Chat](https://github.com/andrerferrer/chat-demo) - How to create a chat in Rails 6.
 - [Rails Helper](https://github.com/andrerferrer/rails-helper-demo) - How to implement a simple Rails helper.
 - [Keep Context Form](https://github.com/andrerferrer/keep-context-form-demo#goal) - How to make a form take you back to the same position on the page without scrolling after submit.
+- [Order a given Model using two columns as parameters](https://github.com/andrerferrer/order-by-two-attributes-demo#goal)
