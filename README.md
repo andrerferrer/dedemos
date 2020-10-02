@@ -52,6 +52,7 @@ This is a repository with my demos to showcase how to implement several features
 ### Simple Form For
 - [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated models.
 - [Several models (same type)](https://github.com/andrerferrer/dynamic-form-demo#goal) - How to implement the creation of several models (of the same type) in a single form.
+- [Several models (same type) dynamically](https://github.com/andrerferrer/dynamic-form-demo-with-js#goal) - How to implement the creation of several models (of the same type) in a single form dynamically.
 
 ### Tags
 - [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
