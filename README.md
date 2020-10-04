@@ -54,6 +54,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Several models (same type)](https://github.com/andrerferrer/dynamic-form-demo#goal) - How to implement the creation of several models (of the same type) in a single form.
 - [Several models (same type) dynamically](https://github.com/andrerferrer/dynamic-form-demo-with-js#goal) - How to implement the creation of several models (of the same type) in a single form dynamically.
 - [Children as Checkboxes](https://github.com/andrerferrer/several-children-as-checkbox-demo#goal) - How to create a form for a model with checkboxes for another associated model .
+- [Model and Nested Model](https://github.com/andrerferrer/create-model-and-nested-models-demo#goal) - How to create a model and a nested model (or many nested models) in the same form.
 
 ### Tags
 - [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
