@@ -72,3 +72,6 @@ This is a repository with my demos to showcase how to implement several features
 - [Order by two cols](https://github.com/andrerferrer/order-by-two-attributes-demo#goal) - How to order a given Model using two columns as parameters.
 - [Shopping Cart](https://github.com/andrerferrer/shopping-cart-demo#goal) - How to create and use a shopping cart.
 
+### *Only Javascript
+- [Select2-change-demo](https://github.com/andrerferrer/select2-change-demo#usage) - How to trigger a change on select2 with JS.
+
