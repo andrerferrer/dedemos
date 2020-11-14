@@ -33,7 +33,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Better date picker](https://github.com/andrerferrer/flatpickr-demo#goal) - How to implement an easy date picker in rails using the flatpickr plugin.
 
 ### Devise
-- [Devise basics](https://github.com/andrerferrer/devise-demo) - How to implement the basics of Devise in a Rails app.
+- [Devise basics](https://github.com/andrerferrer/devise-demo#goal) - How to implement the basics of Devise in a Rails app.
 - [Login with Nickname](https://github.com/andrerferrer/username-not-email-devise-demo) - How to implement Devise in a Rails app to log in with something but the email.
 
 ### Geocoder gem
