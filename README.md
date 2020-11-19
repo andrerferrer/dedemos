@@ -31,6 +31,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Time in Rails](https://github.com/andrerferrer/time-in-rails#goal) - How to work with time (_latu sensu_) in `Rails`.
 - [Nice date](https://github.com/andrerferrer/nice-date-demo#goal) - How to implement an easy date picker in rails using the simple form gem.
 - [Better date picker](https://github.com/andrerferrer/flatpickr-demo#goal) - How to implement an easy date picker in rails using the flatpickr plugin.
+- [Booking Logic](https://github.com/andrerferrer/booking-logic-demo#goal) - How to implement booking logic according to the available dates.
 
 ### Devise
 - [Devise basics](https://github.com/andrerferrer/devise-demo#goal) - How to implement the basics of Devise in a Rails app.
