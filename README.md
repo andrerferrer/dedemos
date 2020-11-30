@@ -44,6 +44,8 @@ This is a repository with my demos to showcase how to implement several features
 - [Geocoder Map](https://github.com/andrerferrer/geocoder-map#goal) - How to implement a map with `MapBox` and the `geocoder` gem.
 - [Geocoder without address no create](https://github.com/andrerferrer/geocoder-without-address-no-create#goal) - How to geocode but with street, city and country as individual columns.
 - [Geocoder without address create](https://github.com/andrerferrer/geocoder-without-address-create#goal) - How to geocode but with street, city and country as individual columns. This time, we will make the address be saved in the record after geocoding.
+- [Display Map with Cards and Markers](https://github.com/andrerferrer/mapbox-cards-and-markers-demo#goal) - How to display a map with cards and markers (like airbnb).
+
 
 ### Pundit
 - [Pundit with Devise](https://github.com/andrerferrer/pundit-demo) - How to implement Authorization with Pundit.
