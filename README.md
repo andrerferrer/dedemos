@@ -12,6 +12,7 @@ This is a repository with my demos to showcase how to implement several features
 
 ### ActiveStorage
 - [Attach a photo](https://github.com/andrerferrer/basic-photo-demo) - How to attach a file to a model in Rails.
+- [Seed photo from local image](https://github.com/andrerferrer/seed-from-local-image-demo#goal) - How to attach a file to a model in Rails with a local picture.
 - [Attach PDF](https://github.com/andrerferrer/attach-pdf-demo) - How to implement some PDF attaching to your Rails app.
 - [Attach PDF and push to Cloudinary](https://github.com/andrerferrer/attach-pdf-with-cloudinary-demo) - How to implement some PDF attaching to your Rails app and push it to the cloud.
 
