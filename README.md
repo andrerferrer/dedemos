@@ -36,6 +36,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Better date picker](https://github.com/andrerferrer/flatpickr-demo#goal) - How to implement an easy date picker in rails using the flatpickr plugin.
 - [Booking Logic](https://github.com/andrerferrer/booking-logic-demo#goal) - How to implement booking logic according to the available dates.
 - [Booking Logic Improved](https://github.com/andrerferrer/booking-logic-improved-demo#goal) - How to improve the previous demo with SQL.
+- [Display Unavailabilities](https://github.com/andrerferrer/booking-display-unavailabilities-demo#goal) - How to implement the display of the unavailable dates with flatpickr.
 
 ### Devise
 - [Devise basics](https://github.com/andrerferrer/devise-demo#goal) - How to implement the basics of Devise in a Rails app.
