@@ -55,6 +55,9 @@ This is a repository with my demos to showcase how to implement several features
 - [Pundit with Devise](https://github.com/andrerferrer/pundit-demo) - How to implement Authorization with Pundit.
 - [Policy on another model etc](https://github.com/andrerferrer/pundit-outsourcing-demo) - How to implement Pundit using another model as the parameter to check the Policy.
 
+### QR Code
+- [How to generate a QR code](#) - How to generate a QR code.
+
 ### Searching and Filtering
 - [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar.
 - [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo#goal) - How to create a simple filter mechanism.
