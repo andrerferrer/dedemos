@@ -57,6 +57,7 @@ This is a repository with my demos to showcase how to implement several features
 
 ### QR Code
 - [How to generate a QR code](https://github.com/andrerferrer/qr-code-demo#goal) - How to generate a QR code.
+- [How to add a QR code reader to your app](https://github.com/andrerferrer/qr-code-reader-demo#goal) - How to generate a QR code reader.
 
 ### Searching and Filtering
 - [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar.
