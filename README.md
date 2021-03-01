@@ -50,7 +50,6 @@ This is a repository with my demos to showcase how to implement several features
 - [Geocoder without address create](https://github.com/andrerferrer/geocoder-without-address-create#goal) - How to geocode but with street, city and country as individual columns. This time, we will make the address be saved in the record after geocoding.
 - [Display Map with Cards and Markers](https://github.com/andrerferrer/mapbox-cards-and-markers-demo#goal) - How to display a map with cards and markers (like airbnb).
 
-
 ### Pundit
 - [Pundit with Devise](https://github.com/andrerferrer/pundit-demo) - How to implement Authorization with Pundit.
 - [Policy on another model etc](https://github.com/andrerferrer/pundit-outsourcing-demo) - How to implement Pundit using another model as the parameter to check the Policy.
@@ -71,7 +70,8 @@ This is a repository with my demos to showcase how to implement several features
 - [Children as Checkboxes](https://github.com/andrerferrer/several-children-as-checkbox-demo#goal) - How to create a form for a model with checkboxes for another associated model .
 - [Model and Nested Model](https://github.com/andrerferrer/create-model-and-nested-models-demo#goal) - How to create a model and a nested model (or many nested models) in the same form.
 - [Keep Context Form](https://github.com/andrerferrer/keep-context-form-demo#goal) - How to make a form take you back to the same position on the page without scrolling after submit.
-- [Input Switch Demo](https://github.com/andrerferrer/input-switch-demo#goal) - How to implement a cool and simple switch on a boolean input like the one below
+- [Input Switch Demo](https://github.com/andrerferrer/input-switch-demo#goal) - How to implement a cool and simple switch on a boolean (checkbox) input.
+- [File Input Demo](https://github.com/andrerferrer/boostrap-file-input#goal) - How to implement a cool and simple switch on a file input.
 
 ### Tags
 - [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
