@@ -72,6 +72,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Keep Context Form](https://github.com/andrerferrer/keep-context-form-demo#goal) - How to make a form take you back to the same position on the page without scrolling after submit.
 - [Input Switch Demo](https://github.com/andrerferrer/input-switch-demo#goal) - How to implement a cool and simple switch on a boolean (checkbox) input.
 - [File Input Demo](https://github.com/andrerferrer/bootstrap-file-input#goal) - How to implement a cool and simple switch on a file input.
+- [Display Uploaded Picture Demo](https://github.com/andrerferrer/display-uploaded-picture-demo#goal) - How to implement a display of the file input.
 
 ### Tags
 - [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
