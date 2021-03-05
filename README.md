@@ -45,7 +45,7 @@ This is a repository with my demos to showcase how to implement several features
 
 ### Geocoder gem
 - [Geocoder basics](https://github.com/andrerferrer/geocoder-gem#goal) - How to implement the `geocoder` gem in a model, adding the coordinates according to the address.
-- [Geocoder with two attributes](- https://github.com/andrerferrer/geocoder-two-attributes#goal) - How to implement the `geocoder` gem in a model, adding the coordinates according to two attributes.
+- [Geocoder with two attributes](https://github.com/andrerferrer/geocoder-two-attributes#goal) - How to implement the `geocoder` gem in a model, adding the coordinates according to two attributes.
 - [Geocoder Map](https://github.com/andrerferrer/geocoder-map#goal) - How to implement a map with `MapBox` and the `geocoder` gem.
 - [Geocoder without address no create](https://github.com/andrerferrer/geocoder-without-address-no-create#goal) - How to geocode but with street, city and country as individual columns.
 - [Geocoder without address create](https://github.com/andrerferrer/geocoder-without-address-create#goal) - How to geocode but with street, city and country as individual columns. This time, we will make the address be saved in the record after geocoding.
