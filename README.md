@@ -31,6 +31,10 @@ This is a repository with my demos to showcase how to implement several features
 - [Basics](https://github.com/andrerferrer/background-jobs-demo) - How to implement background jobs in the Model.
 - [In the controller with Devise](https://github.com/andrerferrer/background-jobs-devise-demo) - How to implement background jobs in the Controller.
 
+### Chats
+- [Create a Chat](https://github.com/andrerferrer/chat-demo#goal) - How to create a chat in Rails 6.
+- [Handle CSS on a Chat](https://github.com/andrerferrer/handle-css-on-chat-demo#goal) - How to handle the css in a chat.
+
 ### Dates (working with dates in general)
 - [Time in Rails](https://github.com/andrerferrer/time-in-rails#goal) - How to work with time (_lato sensu_) in `Rails`.
 - [Nice date](https://github.com/andrerferrer/nice-date-demo#goal) - How to implement an easy date picker in rails using the simple form gem.
@@ -86,7 +90,6 @@ This is a repository with my demos to showcase how to implement several features
 - [Simple Testing](https://github.com/andrerferrer/basic-testing-demo/#demo) - How to implement basic testing for features and models.
 
 ### *Others
-- [Create a Chat](https://github.com/andrerferrer/chat-demo#goal) - How to create a chat in Rails 6.
 - [Rails Helper](https://github.com/andrerferrer/rails-helper-demo) - How to implement a simple Rails helper.
 - [Order by two cols](https://github.com/andrerferrer/order-by-two-attributes-demo#goal) - How to order a given Model using two columns as parameters.
 - [Shopping Cart](https://github.com/andrerferrer/shopping-cart-demo#goal) - How to create and use a shopping cart.
