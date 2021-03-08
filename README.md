@@ -10,6 +10,7 @@ This is a repository with my demos to showcase how to implement several features
 ### ActiveRecord
 - [Rename References](https://github.com/andrerferrer/rename-references-demo#demo) - How to link a DB with more semantic namings.
 - [Enum](https://github.com/andrerferrer/enum-demo#goal) - How to use [`ActiveRecord::Enum`](https://api.rubyonrails.org/v5.2.4.4/classes/ActiveRecord/Enum.html).
+- [Nested models]() - How to work with a model and models nested to it.
 
 ### ActiveStorage
 - [Attach a photo](https://github.com/andrerferrer/basic-photo-demo) - How to attach a file to a model in Rails.
