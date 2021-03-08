@@ -43,6 +43,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Devise basics](https://github.com/andrerferrer/devise-demo#goal) - How to implement the basics of Devise in a Rails app.
 - [Login with Nickname](https://github.com/andrerferrer/username-not-email-devise-demo) - How to implement Devise in a Rails app to log in with something but the email.
 - [Omni-authenticator (Facebook and Spotify Login)](https://github.com/andrerferrer/omni-auth-demo#goal) - How to implement Omni Authentication login (with Facebook, Spotify etc) in Rails using the [devise gem](https://github.com/heartcombo/devise).
+- [User Edit on Modal](https://github.com/andrerferrer/user-edit-on-modal#goal) - How to implement a modal in another page to edit a User in Rails using the [devise gem](https://github.com/heartcombo/devise).
 
 ### Geocoder gem
 - [Geocoder basics](https://github.com/andrerferrer/geocoder-gem#goal) - How to implement the `geocoder` gem in a model, adding the coordinates according to the address.
