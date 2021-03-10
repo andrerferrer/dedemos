@@ -48,7 +48,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Login with Nickname](https://github.com/andrerferrer/username-not-email-devise-demo) - How to implement Devise in a Rails app to log in with something but the email.
 - [Omni-authenticator (Facebook and Spotify Login)](https://github.com/andrerferrer/omni-auth-demo#goal) - How to implement Omni Authentication login (with Facebook, Spotify etc) in Rails using the [devise gem](https://github.com/heartcombo/devise).
 - [User Edit on Modal](https://github.com/andrerferrer/user-edit-on-modal#goal) - How to implement a modal in another page to edit a User in Rails using the [devise gem](https://github.com/heartcombo/devise).
-- [User new and another model]() - How to create a new user and a nested model in the same form.
+- [User new and another model](https://github.com/andrerferrer/devise-nested-model-demo#goal) - How to create a new user and a nested model in the same form.
 
 ### Geocoder gem
 - [Geocoder basics](https://github.com/andrerferrer/geocoder-gem#goal) - How to implement the `geocoder` gem in a model, adding the coordinates according to the address.
