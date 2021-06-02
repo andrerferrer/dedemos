@@ -10,7 +10,7 @@ This is a repository with my demos to showcase how to implement several features
 ### ActiveRecord
 - [Rename References](https://github.com/andrerferrer/rename-references-demo#demo) - How to link a DB with more semantic namings.
 - [Enum](https://github.com/andrerferrer/enum-demo#goal) - How to handle several status using [`ActiveRecord::Enum`](https://api.rubyonrails.org/v5.2.4.4/classes/ActiveRecord/Enum.html).
-- [Nested models]() - How to work with a model and models nested to it.
+- [Nested models](https://github.com/andrerferrer/create-model-and-nested-models-demo) - How to work with a model and models nested to it.
 - [Validation: Pairs Matching](https://github.com/andrerferrer/pairs_matching_validation_demo#goal) - How to validate 2 pairs in a given model.
 
 ### ActiveStorage
