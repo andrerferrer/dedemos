@@ -10,7 +10,6 @@ This is a repository with my demos to showcase how to implement several features
 ### ActiveRecord
 - [Rename References](https://github.com/andrerferrer/rename-references-demo#demo) - How to link a DB with more semantic namings.
 - [Enum](https://github.com/andrerferrer/enum-demo#goal) - How to handle several status using [`ActiveRecord::Enum`](https://api.rubyonrails.org/v5.2.4.4/classes/ActiveRecord/Enum.html).
-- [Nested models](https://github.com/andrerferrer/create-model-and-nested-models-demo) - How to work with a model and models nested to it.
 - [Validation: Pairs Matching](https://github.com/andrerferrer/pairs_matching_validation_demo#goal) - How to validate 2 pairs in a given model.
 
 ### ActiveStorage
@@ -73,7 +72,7 @@ This is a repository with my demos to showcase how to implement several features
 - [PG Search](https://github.com/andrerferrer/pg-search-demo#goal) - How to do not so simple searching.
 
 ### Simple Form For
-- [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated models.
+- [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated (nested) models.
 - [Several models (same type)](https://github.com/andrerferrer/dynamic-form-demo#goal) - How to implement the creation of several models (of the same type) in a single form.
 - [Several models (same type) dynamically](https://github.com/andrerferrer/dynamic-form-demo-with-js#goal) - How to implement the creation of several models (of the same type) in a single form dynamically.
 - [Children as Checkboxes](https://github.com/andrerferrer/several-children-as-checkbox-demo#goal) - How to create a form for a model with checkboxes for another associated model .
