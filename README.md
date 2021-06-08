@@ -12,6 +12,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Enum](https://github.com/andrerferrer/enum-demo#goal) - How to handle several status using [`ActiveRecord::Enum`](https://api.rubyonrails.org/v5.2.4.4/classes/ActiveRecord/Enum.html).
 - [Validation: Pairs Matching](https://github.com/andrerferrer/pairs_matching_validation_demo#goal) - How to validate 2 pairs in a given model.
 - [Scope](https://github.com/andrerferrer/active-record-scope-demo#goal) - How to implement a query scope in your model.
+- [Join Tables Demo](https://github.com/andrerferrer/active-record-scope-demo#goal) - How to create models in a join table.
 
 ### ActiveStorage
 - [Attach a photo](https://github.com/andrerferrer/basic-photo-demo) - How to attach a file to a model in Rails.
