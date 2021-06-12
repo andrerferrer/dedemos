@@ -84,7 +84,7 @@ This is a repository with my demos to showcase how to implement several features
 - [File Input Demo](https://github.com/andrerferrer/bootstrap-file-input#goal) - How to implement a cool and simple switch on a file input.
 - [Display Uploaded Picture Demo](https://github.com/andrerferrer/display-uploaded-picture-demo#goal) - How to implement a display of the file input.
 - [Input toggle all inputs](https://github.com/andrerferrer/select-all-demo#goal) - How to create an input to toggle all other inputs.
-
+- [Day Month Year Demo](https://github.com/andrerferrer/day-month-year-demo#goal) - How to display a date input in simple form in the day-month-year format.
 
 ### Tags
 - [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
