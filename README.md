@@ -69,10 +69,11 @@ This is a repository with my demos to showcase how to implement several features
 - [How to generate a QR code](https://github.com/andrerferrer/qr-code-demo#goal) - How to generate a QR code.
 - [How to add a QR code reader to your app](https://github.com/andrerferrer/qr-code-reader-demo#goal) - How to generate a QR code reader.
 
-### Searching and Filtering
+### Searching and Filtering (and Tags)
 - [Search-bar](https://github.com/andrerferrer/search-bar-demo) - How to create a simple searchbar.
 - [Basic-filtering](https://github.com/andrerferrer/basic-filter-demo#goal) - How to create a simple filter mechanism.
 - [PG Search](https://github.com/andrerferrer/pg-search-demo#goal) - How to do not so simple searching.
+- [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
 
 ### Simple Form For
 - [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated (nested) models.
@@ -88,7 +89,6 @@ This is a repository with my demos to showcase how to implement several features
 - [Day Month Year Demo](https://github.com/andrerferrer/day-month-year-demo#goal) - How to display a date input in simple form in the day-month-year format.
 
 ### Tags
-- [Filter by Tags](https://github.com/andrerferrer/filter-by-tags-demo) - How to filter by tags.
 - [Create a model with tags](https://github.com/andrerferrer/model-with-tags-demo#goal) - How to create a model with tags.
 - [Create several tags at once](https://github.com/andrerferrer/create-multiple-tags-demo#goal) - How to create several tags at once.
 
