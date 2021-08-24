@@ -99,6 +99,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Rails Helper](https://github.com/andrerferrer/rails-helper-demo) - How to implement a simple Rails helper.
 - [Order by two cols](https://github.com/andrerferrer/order-by-two-attributes-demo#goal) - How to order a given Model using two columns as parameters.
 - [Shopping Cart](https://github.com/andrerferrer/shopping-cart-demo#goal) - How to create and use a shopping cart.
+- [Service Objects](https://github.com/andrerferrer/scraping-demo) - How to implement a service object.
 
 ### *AlmostOnly* Javascript
 - [Select2-change-demo](https://github.com/andrerferrer/select2-change-demo#usage) - How to trigger a change on select2 with JS.
