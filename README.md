@@ -42,6 +42,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Time in Rails](https://github.com/andrerferrer/time-in-rails#goal) - How to work with time (_lato sensu_) in `Rails`.
 - [Nice date](https://github.com/andrerferrer/nice-date-demo#goal) - How to implement an easy date picker in rails using the simple form gem.
 - [Better date picker](https://github.com/andrerferrer/flatpickr-demo#goal) - How to implement an easy date picker in rails using the flatpickr plugin.
+- [Better date picker with STIMULUS](https://github.com/andrerferrer/flatpickr-stimulus-demo#goal) - How to implement an easy date picker in rails using the flatpickr plugin and stimulus.js.
 - [Booking Logic](https://github.com/andrerferrer/booking-logic-demo#goal) - How to implement booking logic according to the available dates.
 - [Booking Logic Improved](https://github.com/andrerferrer/booking-logic-improved-demo#goal) - How to improve the previous demo with SQL.
 - [Display Unavailabilities](https://github.com/andrerferrer/booking-display-unavailabilities-demo#goal) - How to implement the display of the unavailable dates with flatpickr.
