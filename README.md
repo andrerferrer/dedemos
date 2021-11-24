@@ -90,7 +90,8 @@ This is a repository with my demos to showcase how to implement several features
 - [Input toggle all inputs](https://github.com/andrerferrer/select-all-demo#goal) - How to create an input to toggle all other inputs.
 - [Day Month Year Demo](https://github.com/andrerferrer/day-month-year-demo#goal) - How to display a date input in simple form in the day-month-year format.
 - [Select2 with Stimulus](https://github.com/andrerferrer/select2-stimulus-demo#goal) - How to implement Select2 in a Stimulus controller in a input in simple form.
-- [Multi-Step Form](https://github.com/andrerferrer/multi-step-form-demo#goal) - How to implement multi-step form (a wizard) with simple form.
+- [Simple Multi-Step Form with Javascript](https://github.com/andrerferrer/multi-step-form-demo#goal) - How to implement a simple multi-step form (a wizard) with simple form, bootstrap and stimulus.
+- [Multi-Step Form no Javascript](https://github.com/andrerferrer/multi-step-form-no-javascript-demo#goal) - How to implement multi-step form (a wizard) with simple form and no javascript.
 
 ### Tags
 - [Create a model with tags](https://github.com/andrerferrer/model-with-tags-demo#goal) - How to create a model with tags.
