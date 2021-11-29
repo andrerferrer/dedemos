@@ -29,6 +29,7 @@ This is a repository with my demos to showcase how to implement several features
 - [AJAX with JS.ERB and Rails.ajax (UPDATE)](https://github.com/andrerferrer/rails-js-erb-demo#goal) - How to implement AJAX on an UPDATE request with small changes from the previous ones.
 - [AJAX with JSON and Rails.ajax (UPDATE)](https://github.com/andrerferrer/rails-json-erb-demo#goal) - How to implement the same AJAX on an UPDATE request using a `JSON` response from the controller.
 - [AJAX with STIMULUS (DELETE)](https://github.com/andrerferrer/ajax-with-stimulus-delete-demo#goal) - How to implement AJAX in Rails without Turbolinks on a DELETE request.
+- [AJAX with STIMULUS (UPDATE and DESTROY)](https://github.com/andrerferrer/ajax-card-quantity-update-demo#goal) - How to implement AJAX in Rails with Stimulus on a UPDATE and DESTROY request.
 
 ### Background Jobs
 - [Basics](https://github.com/andrerferrer/background-jobs-demo) - How to implement background jobs in the Model.
