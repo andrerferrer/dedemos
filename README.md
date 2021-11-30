@@ -38,6 +38,7 @@ This is a repository with my demos to showcase how to implement several features
 ### Chats
 - [Create a Chat](https://github.com/andrerferrer/chat-demo#goal) - How to create a chat in Rails 6.
 - [Handle CSS on a Chat](https://github.com/andrerferrer/handle-css-on-chat-demo#goal) - How to handle the css in a chat.
+- [Chat with stimulus](https://github.com/andrerferrer/chat-with-stimulus-demo#goal) - How to handle a chat with Stimulus.
 
 ### Dates (working with dates in general)
 - [Time in Rails](https://github.com/andrerferrer/time-in-rails#goal) - How to work with time (_lato sensu_) in `Rails`.
