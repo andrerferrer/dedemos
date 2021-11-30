@@ -111,4 +111,5 @@ This is a repository with my demos to showcase how to implement several features
 ### *AlmostOnly* Javascript
 - [Select2-change-demo](https://github.com/andrerferrer/select2-change-demo#usage) - How to trigger a change on select2 with JS.
 - [Card Flip Demo](https://github.com/andrerferrer/card-flip-demo#goal) - How to implement a flippable card.
+- [Word Cloud Demo](https://github.com/andrerferrer/word-cloud-demo#goal) - How to implement a cloud of words with JS.
 
