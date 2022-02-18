@@ -36,7 +36,7 @@ This is a repository with my demos to showcase how to implement several features
 - [In the controller with Devise](https://github.com/andrerferrer/background-jobs-devise-demo) - How to implement background jobs in the Controller.
 
 ### ActionCable, Chats and Websockets
-- [Create a Chat](https://github.com/andrerferrer/chat-demo#goal) - How to create a chat in Rails 6.
+- [Create a Chat](https://github.com/andrerferrer/chat-demo#goal) - How to create a chat in Rails.
 - [Handle CSS on a Chat](https://github.com/andrerferrer/handle-css-on-chat-demo#goal) - How to handle the css in a chat.
 - [Chat with stimulus](https://github.com/andrerferrer/chat-with-stimulus-demo#goal) - How to handle a chat with Stimulus.
 - [Notifications](https://github.com/andrerferrer/notifications-with-stimulus-demo#goal) - How to handle notifications with Stimulus and Channels.
@@ -85,7 +85,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Associated Values](https://github.com/andrerferrer/nested-simple-form-demo) - How to implement a form with associated (nested) models.
 - [Several models (same type)](https://github.com/andrerferrer/dynamic-form-demo#goal) - How to implement the creation of several models (of the same type) in a single form.
 - [Several models (same type) dynamically](https://github.com/andrerferrer/dynamic-form-demo-with-js#goal) - How to implement the creation of several models (of the same type) in a single form dynamically.
-- [Children as Checkboxes](https://github.com/andrerferrer/several-children-as-checkbox-demo#goal) - How to create a form for a model with checkboxes for another associated model .
+- [Children as Checkboxes](https://github.com/andrerferrer/several-children-as-checkbox-demo#goal) - How to create a form for a model with checkboxes for another associated model.
 - [Model and Nested Model](https://github.com/andrerferrer/create-model-and-nested-models-demo#goal) - How to create a model and a nested model (or many nested models) in the same form.
 - [Keep Context Form](https://github.com/andrerferrer/keep-context-form-demo#goal) - How to make a form take you back to the same position on the page without scrolling after submit.
 - [Input Switch Demo](https://github.com/andrerferrer/input-switch-demo#goal) - How to implement a cool and simple switch on a boolean (checkbox) input.
