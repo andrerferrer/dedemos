@@ -30,6 +30,7 @@ This is a repository with my demos to showcase how to implement several features
 - [AJAX with JSON and Rails.ajax (UPDATE)](https://github.com/andrerferrer/rails-json-erb-demo#goal) - How to implement the same AJAX on an UPDATE request using a `JSON` response from the controller.
 - [AJAX with STIMULUS (DELETE)](https://github.com/andrerferrer/ajax-with-stimulus-delete-demo#goal) - How to implement AJAX in Rails without Turbolinks on a DELETE request.
 - [AJAX with STIMULUS (UPDATE and DESTROY)](https://github.com/andrerferrer/ajax-card-quantity-update-demo#goal) - How to implement AJAX in Rails with Stimulus on a UPDATE and DESTROY request.
+- [Order Card With Ajax and Stimulus](https://github.com/andrerferrer/order-card-with-ajax-demo) - How to implement an order card with features to increase/decrease and add or remove an item to an order with AJAX and Stimulus.
 
 ### Background Jobs
 - [Basics](https://github.com/andrerferrer/background-jobs-demo) - How to implement background jobs in the Model.
@@ -109,6 +110,7 @@ This is a repository with my demos to showcase how to implement several features
 - [Order by two cols](https://github.com/andrerferrer/order-by-two-attributes-demo#goal) - How to order a given Model using two columns as parameters.
 - [Shopping Cart](https://github.com/andrerferrer/shopping-cart-demo#goal) - How to create and use a shopping cart.
 - [Service Objects](https://github.com/andrerferrer/scraping-demo) - How to implement a service object.
+- [Order Card](https://github.com/andrerferrer/order-card-demo) - How to implement an order card with features to increase/decrease and add or remove an item to an order.
 
 ### *AlmostOnly* Javascript
 - [Select2-change-demo](https://github.com/andrerferrer/select2-change-demo#usage) - How to trigger a change on select2 with JS.
