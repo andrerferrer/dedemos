@@ -59,6 +59,9 @@ This is a repository with my demos to showcase how to implement several features
 - [User new and another associated model](https://github.com/andrerferrer/devise-nested-model-demo#goal) - How to create a new user and a associated nested model in the same form.
 - [User new and another new model](https://github.com/andrerferrer/devise-new-model-demo#goal) - How to create a new user and a associated new model in the same form. E.g. A user and their address.
 
+### GraphQL
+- [Graphql Rails Basics](https://github.com/andrerferrer/graphql-rails-demo#goal) - How to have a glimpse on how to implement a graphql api using ruby on rails.
+
 ### Geocoder gem
 - [Geocoder basics](https://github.com/andrerferrer/geocoder-gem#goal) - How to implement the `geocoder` gem in a model, adding the coordinates according to the address.
 - [Geocoder with two attributes](https://github.com/andrerferrer/geocoder-two-attributes#goal) - How to implement the `geocoder` gem in a model, adding the coordinates according to two attributes.
